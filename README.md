@@ -1,2 +1,2 @@
 # Earth-Engine
-Contains implementation using Google Earth Engine typically from GEARS Lab
+Contains implementation using Google Earth Engine with p-sets by GEARS Lab.
